@@ -8,7 +8,7 @@ return {
     "olimorris/onedarkpro.nvim",
     priority = 1000,
     config = function()
-      vim.cmd("colorscheme onedark_dark")
+      vim.cmd("colorscheme andromeda")
     end,
   },
   {
